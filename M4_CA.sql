@@ -1,6 +1,6 @@
 /*
 * Name: Module 4 Course Activity
-* Author: Greg Garrett
+* Author: Austin Strobel
 * Date: 11/5/24
 * Description: Creates tables and loads values
 * Instructions: Click the execute as script button to create and load tables
