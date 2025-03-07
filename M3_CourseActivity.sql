@@ -1,6 +1,6 @@
 /*
  * Name: Module 3 Course Activity
- * Author: Greg Garrett
+ * Author: Austin Strobel
  * Date: 10/30/24
  * Description: This script is practice writing Join queries based on module 3 lectures 
  * Changes: 
