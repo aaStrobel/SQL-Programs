@@ -1,6 +1,6 @@
 /*
  * Name: Module 3 Homework
- * Author: Greg Garrett
+ * Author: Austin Strobel
  * Date: 10/30/24
  * Description: This script is to create a list for the HR department of employee names, titles, manager names, manager titles, month and year employee was hired, and years of employee tenure.
  * Changes: 
