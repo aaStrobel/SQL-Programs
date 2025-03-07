@@ -1,6 +1,6 @@
 /*
  * Name: Module 2 Homework
- * Author: Greg Garrett
+ * Author: Austin Strobel
  * Date: 10/21/24
  * Description: This script is to test my basic SQL knowledge of queries/operators, based on module 2 lectures 
  * Changes: 10/21/24 Queries were created to answer homework assignment questions
