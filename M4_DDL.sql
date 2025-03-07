@@ -1,6 +1,6 @@
 /*
 * Name: Module 4 Homework
-* Author: Greg Garrett
+* Author: Austin Strobel
 * Date: 11/8/24
 * Description: Creates the tables for a school database to store student, course, and registration information.
 * Instructions: Click the execute as script button to create and load tables
