@@ -1,6 +1,6 @@
 /*
  * Name: Module 2 Course Activity
- * Author: Greg Garrett
+ * Author: Austin Strobel
  * Date: 10/21/24
  * Description: This script is practice writing queries based on module 2 lectures 
  * Changes: 10/21/24 Queries were created to answer assignment questions
